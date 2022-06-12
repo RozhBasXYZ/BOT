@@ -15,8 +15,11 @@ Dan Spam Nomor
  $ git pull
  $ python run.py
  ```
-#### Untuk Yang Pernah Install Cukup Pakai Ini
+#### Cara Untuk Update
  ```
+  $ cd $HOME
+  $ rm -rf BOT
+  $ git clone https://github.com/RozhBasXYZ/BOT
   $ cd BOT
   $ git pull
   $ python run.py
