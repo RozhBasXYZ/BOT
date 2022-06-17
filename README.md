@@ -24,3 +24,9 @@ Dan Spam Nomor
   $ git pull
   $ python run.py
  ```
+#### Jika Script Error Silahkan Di Update
+ ```
+  $ cd $HOME
+  $ cd BOT
+  $ git pull
+  $ python run.py
