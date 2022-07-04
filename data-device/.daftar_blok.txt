@@ -1,2 +1,3 @@
+Linux-4.14.193+-ab339-armv8l-with-libc
 Linux-4.9.190+-aarch64-with-libc
 Linux-4.9.193-perf-ge92aAc2c-armv7l-with-libc
